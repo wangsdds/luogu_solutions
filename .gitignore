@@ -5,3 +5,6 @@
 *.o
 *.out
 __pycache__/
+
+/Untitled-*
+/in.txt
